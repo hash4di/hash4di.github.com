@@ -9,25 +9,23 @@ photo_dsc: Marcin Nowicki aka Pr0d1r2
 
 <hr>
 
-## [28dni.pl](http://28dni.pl)
+## [bud-kop.pl](http://bud-kop.pl)
 
-Startup. Developed with [Marcin Michałowski](http://marcinmichalowski.com/)
+First commercial freelancer project.
 
-Site covers woman fertility issues.
-
-<hr>
-
-## [jobmensa.de](http://jobmensa.de)
-
-Commercial project. I was Team Leader there for 18 months.
-
-Site is for students searching for jobs.
+Site about mini excavator services
 
 <hr>
 
-## [coworking.czest.pl](http://coworking.czest.pl)
+## [gwall.heroku.com](http://gwall.heroku.com)
 
-Spreading idea of coworking in my small city :)
+Prank fun website for get some "air" in office.
+
+<hr>
+
+## [things-logbook-backup](http://github.com/hash4di/things-logbook-backup)
+
+backup script for Things Mac users application
 
 <hr>
 
@@ -49,8 +47,8 @@ Ruby gem for making excerpts from text. Useful for creating text snippets.
 
 <hr>
 
-[Blog](http://pr0d1r2.tumblr.com),
-[GitHub](http://github.com/Pr0d1r2),
-[Twitter](http://twitter.com/Pr0d1r2),
-[E-Mail](mailto:pr0d1r2@gmail.com),
+[Blog](http://hash4di.wordpress.com),
+[GitHub](http://github.com/hash4di),
+[Twitter](http://twitter.com/hash4di),
+[E-Mail](mailto:hash4di@gmail.com),
 [about](/)
