@@ -1,8 +1,8 @@
 ---
-title: Marcin Nowicki aka Pr0d1r2 - Ruby on Rails BDD Agile developer and Team Leader using GTD and minimalistic approach (projects)
+title: Adrian Chęciński aka hash4di - Ruby on Rails BDD Agile junior developer, using GTD and minimalistic approach (projects)
 layout: default
-photo_src: http://gravatar.com/avatar/6079eb9d95034da7c27d3ced3cf6591f.png?r=PG
-photo_dsc: Marcin Nowicki aka Pr0d1r2
+photo_src: http://www.gravatar.com/avatar/baa159399f201a7cfed4d124de1713e9.png?r=PG
+photo_dsc: Adrian Chęciński aka hash4di
 ---
 
 # Involved in: 
