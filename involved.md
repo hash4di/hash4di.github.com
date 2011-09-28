@@ -41,12 +41,6 @@ Learning new developers on live projects.
 
 <hr>
 
-## [excerpt-fu](http://github.com/experteer/excerpt-fu)
-
-Ruby gem for making excerpts from text. Useful for creating text snippets.
-
-<hr>
-
 [Blog](http://hash4di.wordpress.com),
 [GitHub](http://github.com/hash4di),
 [Twitter](http://twitter.com/hash4di),
