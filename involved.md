@@ -41,7 +41,7 @@ Learning new developers on live projects.
 
 <hr>
 
-[Blog](http://hash4di.wordpress.com),
+[Blog](http://hash4di.tumblr.com),
 [GitHub](http://github.com/hash4di),
 [Twitter](http://twitter.com/hash4di),
 [E-Mail](mailto:hash4di@gmail.com),
