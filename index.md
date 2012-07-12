@@ -13,6 +13,7 @@ I am Ruby on Rails developer using GTD and minimalistic approach.
 
 I use BDD and many other Agile methodologies as my everyday routine for development.
 
+I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http://marcinmichalowski.com'>Marcin Michałowski</a> and  <a href='http://goozzik.github.com'>Jakub Gorzelak</a>
 <hr>
 
 [Blog](http://hash4di.tumblr.com),
@@ -21,7 +22,6 @@ I use BDD and many other Agile methodologies as my everyday routine for developm
 [Facebook](http://facebook.com/hash4di),
 [Twitter](http://twitter.com/hash4di),
 [Linkedin](http://www.linkedin.com/pub/adrian-ch%C4%99ci%C5%84ski/42/450/961),
-<br/>
 [E-Mail](mailto:hash4di@gmail.com),
 [CV](/CV_Adrian.Checinski_2012.07.12.pdf)
 
