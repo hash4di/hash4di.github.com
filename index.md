@@ -5,7 +5,7 @@ photo_src: http://www.gravatar.com/avatar/baa159399f201a7cfed4d124de1713e9.png?r
 photo_dsc: Adrian Chęciński aka hash4di
 ---
 
-# Hello :)
+# Hello ;]
 
 ## My name is Adrian Chęciński (aka hash4di).
 
