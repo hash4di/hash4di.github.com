@@ -9,7 +9,7 @@ photo_dsc: Adrian Chęciński aka hash4di
 
 ## My name is Adrian Chęciński (aka hash4di).
 
-I am Ruby on Rails junior developer, using GTD and minimalistic approach.
+I am Ruby on asdf Rails junior developer, using GTD and minimalistic approach.
 
 I use BDD and many other Agile methodologies as my everyday routine for development.
 
