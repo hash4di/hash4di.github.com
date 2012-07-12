@@ -132,6 +132,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 
 <ul>
   <li>Startup.</li>
+  <li>Developed with <a href='http://goozzik.github.com'>Jakub Gorzelak</a></li>
   <li>Bus schedule searcher with geolocation for mobile devices and desktops.</li>
   <li>My role: front/back-end developer</li>
   <li>Login via Facebook.</li>
