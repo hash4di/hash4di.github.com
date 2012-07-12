@@ -60,7 +60,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 
 <hr>
 
-[MacBook Pro"](http://www.apple.com/macbook-pro/),
+[MacBook Pro](http://www.apple.com/macbook-pro/),
 [central plexus](https://github.com/doubledrones/central_plexus),
 [MacVim](http://code.google.com/p/macvim/),
 [steak](https://github.com/cavalle/steak),
@@ -78,7 +78,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 <br/>
 <br/>
 
-## Involved in: 
+## Involved in:
 
 <hr>
 
@@ -88,7 +88,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
   <li>Startup.</li>
   <li>Developed with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href="http://marcinmichalowski.com/">Marcin Michałowski</a> and <a href='http://goozzik.github.com'>Jakub Gorzelak</a></li>
   <li>Easy to use DNS management application</li>
-  <li>My role: Programmer and marketing specialist</li>
+  <li>My role: front/back-end developer and marketing specialist</li>
   <li>Application written in Rails 3</li>
   <li>Use external API</li>
 </ul>
@@ -101,6 +101,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 <ul>
   <li>First commercial freelancer project.</li>
   <li>Site about mini excavator services</li>
+  <li>My role: major developer, front/back-end, graphic</li>
 </ul>
 
 <br/>
@@ -111,6 +112,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 <ul>
   <li>Startup</li>
   <li>Prank fun website for get some "air" in office.</li>
+  <li>My role: owner, major developer</li>
 </ul>
 
 <br/>
@@ -131,6 +133,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 <ul>
   <li>Startup.</li>
   <li>Bus schedule searcher with geolocation for mobile devices and desktops.</li>
+  <li>My role: front/back-end developer</li>
   <li>Login via Facebook.</li>
 </ul>
 
@@ -142,6 +145,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 <ul>
   <li>Startup</li>
   <li>Learning new developers on live projects.</li>
+  <li>My role: major developer</li>
 </ul>
 
 <br/>
