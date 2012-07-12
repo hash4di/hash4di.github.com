@@ -172,6 +172,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 [Cooking](http://en.wikipedia.org/wiki/Cooking),
 [Strategy games](http://en.wikipedia.org/wiki/Strategy_game),
 [Snowboard](http://en.wikipedia.org/wiki/snowboard)
+<br/>
 [Bodybuilding](http://en.wikipedia.org/wiki/Bodybuilding)
 [Motorcycling](http://en.wikipedia.org/wiki/Motorcycling)
 [Team sports](http://en.wikipedia.org/wiki/Team_sports)
