@@ -23,7 +23,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 [Twitter](http://twitter.com/hash4di),
 [Linkedin](http://www.linkedin.com/pub/adrian-ch%C4%99ci%C5%84ski/42/450/961),
 [E-Mail](mailto:hash4di@gmail.com),
-[CV](/CV_Adrian.Checinski_2012.07.12.pdf)
+[CV](/CV_Adrian.Checinski_2012.07.12.pdf).
 
 <br/>
 <br/>
@@ -51,8 +51,8 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 <br/>
 [VirtualBox](http://en.wikipedia.org/wiki/Virtual_box),
 [Unix Shell Scripting](http://en.wikipedia.org/wiki/Shell_scripting),
-[HAML](http://pl.wikipedia.org/wiki/Haml)
-[Web Standards](http://en.wikipedia.org/wiki/Web_standards)
+[HAML](http://pl.wikipedia.org/wiki/Haml),
+[Web Standards](http://en.wikipedia.org/wiki/Web_standards).
 <br/>
 <br/>
 
@@ -173,6 +173,6 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 [Strategy games](http://en.wikipedia.org/wiki/Strategy_game),
 [Snowboard](http://en.wikipedia.org/wiki/snowboard)
 <br/>
-[Bodybuilding](http://en.wikipedia.org/wiki/Bodybuilding)
-[Motorcycling](http://en.wikipedia.org/wiki/Motorcycling)
-[Team sports](http://en.wikipedia.org/wiki/Team_sports)
+[Bodybuilding](http://en.wikipedia.org/wiki/Bodybuilding),
+[Motorcycling](http://en.wikipedia.org/wiki/Motorcycling),
+[Team sports](http://en.wikipedia.org/wiki/Team_sports).
