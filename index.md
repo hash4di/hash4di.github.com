@@ -82,6 +82,19 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 
 <hr>
 
+## [ecutune.pl](http://ecutune.pl)
+
+<ul>
+  <li>Commercial website for client</li>
+  <li>Site about automotive tuning and service</li>
+  <li>My role: major developer, front/back-end, graphic</li>
+  <li>Application written in Rails 3</li>
+  <li>Technology used: ruby, twitter-bootstrap, json, sass, coffee-rails, less, capistrano</li>
+  <li>Logo made by my friend <a href="http://web.stagram.com/n/t__z/">Rafał Tromczyński</a> owner of <a href="http://create-studio.pl">create STUDIO</a></li>
+</ul>
+
+<br/>
+<hr>
 ## [prostydns.pl](http://prostydns.pl)
 
 <ul>
