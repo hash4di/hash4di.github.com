@@ -23,7 +23,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 [Twitter](http://twitter.com/hash4di),
 [Linkedin](http://www.linkedin.com/pub/adrian-ch%C4%99ci%C5%84ski/42/450/961),
 [E-Mail](mailto:hash4di@gmail.com),
-[CV](/CV_Adrian.Checinski_2012.07.12.pdf).
+[CV](/CV_Adrian.Checinski_2013.09.16.pdf).
 
 <br/>
 <br/>
@@ -60,6 +60,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 
 <hr>
 
+[MacBook Air](http://www.apple.com/macbook-air/),
 [MacBook Pro](http://www.apple.com/macbook-pro/),
 [central plexus](https://github.com/doubledrones/central_plexus),
 [MacVim](http://code.google.com/p/macvim/),
@@ -82,6 +83,18 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 
 <hr>
 
+## [brp-serwis.pl](http://brp-serwis.pl)
+
+<ul>
+  <li>Commercial website for client</li>
+  <li>Site about quad tuning and service</li>
+  <li>My role: major developer, front/back-end, graphic</li>
+  <li>Application written in Rails 3</li>
+  <li>Technology used: rack, twitter-bootstrap, minimalism HTML, jQuery</li>
+</ul>
+<hr>
+<br/>
+
 ## [ecutune.pl](http://ecutune.pl)
 
 <ul>
@@ -92,22 +105,21 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
   <li>Technology used: ruby, twitter-bootstrap, json, sass, coffee-rails, less, capistrano</li>
   <li>Logo made by my friend <a href="http://web.stagram.com/n/t__z/">Rafał Tromczyński</a> owner of <a href="http://create-studio.pl">create STUDIO</a></li>
 </ul>
-
-<br/>
 <hr>
+<br/>
+
 ## [prostydns.pl](http://prostydns.pl)
 
 <ul>
   <li>Startup.</li>
   <li>Developed with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href="http://marcinmichalowski.com/">Marcin Michałowski</a> and <a href='http://goozzik.github.com'>Jakub Gorzelak</a></li>
   <li>Easy to use DNS management application</li>
-  <li>My role: front/back-end developer and marketing specialist</li>
+  <li>My role: front/back-end developer and CTO</li>
   <li>Application written in Rails 3</li>
   <li>Use external API</li>
 </ul>
-
-<br/>
 <hr>
+<br/>
 
 ## [bud-kop.pl](http://bud-kop.pl)
 
@@ -116,9 +128,8 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
   <li>Site about mini excavator services</li>
   <li>My role: major developer, front/back-end, graphic</li>
 </ul>
-
-<br/>
 <hr>
+<br/>
 
 ## [gwall](http://gwall.heroku.com)
 
@@ -127,9 +138,8 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
   <li>Prank fun website for get some "air" in office.</li>
   <li>My role: owner, major developer</li>
 </ul>
-
-<br/>
 <hr>
+<br/>
 
 ## [things-logbook-backup](http://github.com/hash4di/things-logbook-backup)
 
@@ -137,9 +147,8 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
   <li>backup script for Things Mac users application</li>
   <li>shell script</li>
 </ul>
-
-<br/>
 <hr>
+<br/>
 
 ## [rozklad.czest.pl](http://rozklad.czest.pl)
 
@@ -150,9 +159,8 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
   <li>My role: front/back-end developer</li>
   <li>Login via Facebook.</li>
 </ul>
-
-<br/>
 <hr>
+<br/>
 
 ## [doubledrones.com](http://doubledrones.com)
 
@@ -161,9 +169,8 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
   <li>Learning new developers on live projects.</li>
   <li>My role: major developer</li>
 </ul>
-
-<br/>
 <hr>
+<br/>
 
 ## [central plexus](https://github.com/doubledrones/central_plexus)
 
@@ -172,14 +179,12 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
   <li>Allow you to introduce new developer to project in 1 hour instead of 1 day.</li>
   <li>Many useful scripts and tools for everyday development.</li>
 </ul>
-
-<br/>
+<hr>
 <br/>
 
 ## Hobbies:
 
 <hr>
-
 [PsyTrance Music](http://www.last.fm/user/pr0d1r2),
 [Personal development](http://en.wikipedia.org/wiki/Personal_development),
 [Life hack](http://en.wikipedia.org/wiki/Life_hack),
@@ -189,4 +194,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 <br/>
 [Bodybuilding](http://en.wikipedia.org/wiki/Bodybuilding),
 [Motorcycling](http://en.wikipedia.org/wiki/Motorcycling),
-[Team sports](http://en.wikipedia.org/wiki/Team_sports).
+[Team sports](http://en.wikipedia.org/wiki/Team_sports),
+Apple Fanboy,
+Comics Fan,
+Movie Maniac.
