@@ -52,8 +52,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 [VirtualBox](http://en.wikipedia.org/wiki/Virtual_box),
 [Unix Shell Scripting](http://en.wikipedia.org/wiki/Shell_scripting),
 [HAML](http://pl.wikipedia.org/wiki/Haml),
-[Web Standards](http://en.wikipedia.org/wiki/Web_standards)
-<br/>
+[Web Standards](http://en.wikipedia.org/wiki/Web_standards),
 [soft skills](http://en.wikipedia.org/wiki/Soft_skills),
 [Bootstrap](http://getbootstrap.com/).
 <br/>
