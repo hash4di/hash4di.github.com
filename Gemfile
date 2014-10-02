@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rack-jekyll', '0.3.5'
+gem 'rack-jekyll'
 
 group :development do
   gem 'wirble'
