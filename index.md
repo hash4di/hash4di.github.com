@@ -23,7 +23,7 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 [Twitter](http://twitter.com/hash4di),
 [Linkedin](http://www.linkedin.com/pub/adrian-ch%C4%99ci%C5%84ski/42/450/961),
 [E-Mail](mailto:hash4di@gmail.com),
-[CV](/CV_Adrian.Checinski_2013.09.16.pdf).
+[CV](/CV_Adrian.Checinski_2014.10.01.pdf).
 
 <br/>
 <br/>
@@ -82,6 +82,18 @@ I work with <a href='http://marcinnowicki.com'>Marcin Nowicki</a>, <a href='http
 ## Involved in:
 
 <hr>
+
+## [Scripture Saver](http://scripture-hash4di.rhcloud.com)
+
+<ul>
+  <li>Hobby project founded and written by myself</li>
+  <li>Apllication for saving favourites Bible verses</li>
+  <li>My role: founder, major developer, front/back-end, graphic</li>
+  <li>Application written in newest technology Rails 4.1 and Ruby 2.1</li>
+  <li>Technology used: rails, ruby, nokogiri, twitter-bootstrap, minimalism HTML, jQuery, postgres, devise, rspec, selenium, simple-form</li>
+</ul>
+<hr>
+<br/>
 
 ## [brp-serwis.pl](http://brp-serwis.pl)
 
